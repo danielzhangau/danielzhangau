@@ -1,12 +1,11 @@
 > Any science or technology which is sufficiently advanced is indistinguishable from magic. -- Arthur C. Clarke
 
-# Hi, I'm Bosheng (Daniel) Zhang
+# Hi, I'm Daniel
 
-**AI Engineer & Researcher** based in Brisbane, Australia.
+4+ years shipping production AI systems in Australia -- from computer vision pipelines to LLM-powered platforms on GCP.   
+Currently exploring agentic AI and domain-specific RAG architectures.
 
-4+ years of experience designing and delivering end-to-end AI systems -- from problem scoping and model development to production deployment and stakeholder-facing dashboards. Currently focused on agentic AI, RAG architectures, and domain-specific LLM applications for enterprise use cases.
-
-Previously at **Vision HQ** (2021--2025), where I architected AI-powered monitoring systems for Australian local governments: computer vision pipelines for road assessment, city-wide cleanliness scoring, and an LLM-powered IoT platform on GCP.
+[Portfolio & Blog](https://danielzhangau.github.io)
 
 ## Skills
 
