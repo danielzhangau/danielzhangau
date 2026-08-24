@@ -1,9 +1,9 @@
-> Any science or technology which is sufficiently advanced is indistinguishable from magic. -- Arthur C. Clarke
+> Any science or technology which is sufficiently advanced is indistinguishable from magic. — Arthur C. Clarke
 
 # Hi, I'm Daniel
 
-4+ years shipping production AI systems in Australia -- from computer vision pipelines to LLM-powered platforms on GCP.   
-Currently exploring agentic AI and domain-specific RAG architectures.
+5+ years shipping production AI systems, from computer vision pipelines to LLM platforms on GCP.   
+Now a Data Scientist at Similarweb in Shanghai, working on custom data projects for leading AI companies.
 
 [Portfolio & Blog](https://danielzhangau.github.io)
 
@@ -25,11 +25,12 @@ Currently exploring agentic AI and domain-specific RAG architectures.
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bosheng-zhang-7b7036149/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boshengzhangau/)
 [![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielzhangau.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddaniel.zhang0413@gmail.com)
